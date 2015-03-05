@@ -3,6 +3,21 @@ var Stack = function() {
   // but try not not reference your old code in writing the new style.
 };
 
-var stackMethods = {};
+var stackMethods = {
+
+	var storage = {};
+	var index = 0;
+	
+	var push = function (){
+		
+	};
+
+	var pop = function () {};
+
+	var size = function () {};
+
+
+
+};
 
 
